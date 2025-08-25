@@ -47,8 +47,19 @@ Data prepared for analisys:<br>
 <img width="1049" height="784" alt="image" src="https://github.com/user-attachments/assets/cca4077e-5d45-4048-b16f-1a69b2028bb8" /><br>
 <img width="1748" height="785" alt="image" src="https://github.com/user-attachments/assets/21b73a13-2026-4f2d-ac32-dfcdc98cdc3a" /><br>
 
-# Checpoints:
-<img width="1046" height="499" alt="image" src="https://github.com/user-attachments/assets/59b1fcd8-e3d9-4872-b82e-cc2542b1d8f1" />
-<img width="883" height="603" alt="image" src="https://github.com/user-attachments/assets/bdf44b8d-85bd-4015-a54f-86defdd6a9cf" />
+# Checkpoints:
+<img width="1046" height="499" alt="image" src="https://github.com/user-attachments/assets/59b1fcd8-e3d9-4872-b82e-cc2542b1d8f1" /><br>
+<img width="883" height="603" alt="image" src="https://github.com/user-attachments/assets/bdf44b8d-85bd-4015-a54f-86defdd6a9cf" /><br>
+
+# Manually running notebooks:
+_____
+01_create_metadata:<br>
+<img width="1749" height="828" alt="image" src="https://github.com/user-attachments/assets/e7ae0aff-96c5-4ef1-aa1c-7fd7043aecec" /><br>
+<img width="417" height="571" alt="image" src="https://github.com/user-attachments/assets/b882c1ea-6319-4860-915b-5c4e72b4b471" /><br>
+_____
+1. Data for 2017 only: <br>
+
+2. Data for both 2016 & 2017: <br>
+
 
 
