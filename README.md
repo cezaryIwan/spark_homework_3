@@ -52,14 +52,31 @@ Data prepared for analisys:<br>
 <img width="883" height="603" alt="image" src="https://github.com/user-attachments/assets/bdf44b8d-85bd-4015-a54f-86defdd6a9cf" /><br>
 
 # Manually running notebooks:
-_____
 01_create_metadata:<br>
 <img width="1749" height="828" alt="image" src="https://github.com/user-attachments/assets/e7ae0aff-96c5-4ef1-aa1c-7fd7043aecec" /><br>
 <img width="417" height="571" alt="image" src="https://github.com/user-attachments/assets/b882c1ea-6319-4860-915b-5c4e72b4b471" /><br>
 _____
-1. Data for 2017 only: <br>
+02_load_bronze_data: <br>
+Data for 2016 only:<br>
+<img width="1395" height="836" alt="image" src="https://github.com/user-attachments/assets/64b30bf7-df96-4756-8f36-3734c0f09ebd" /><br>
+Data for both 2016 & 2017:<br>
+<img width="1512" height="668" alt="image" src="https://github.com/user-attachments/assets/ceb6bf76-74f2-403c-92ea-b5935e80826b" /><br>
+_____
+03_bronze_to_silver: <br>
+Data for 2016 only:<br>
+<img width="775" height="509" alt="image" src="https://github.com/user-attachments/assets/7add3295-6fd6-464a-9422-b3f10f79ec81" /><br>
+<img width="875" height="521" alt="image" src="https://github.com/user-attachments/assets/d62124a2-6f03-4953-b463-411a63201ebc" /><br>
+Data for both 2016 & 2017:<br>
+<img width="878" height="506" alt="image" src="https://github.com/user-attachments/assets/fbc94433-e672-42db-83ac-75d997a7ce22" /><br>
+_____
+04_silver_to_gold:<br>
+Data for 2016 only:<br>
+<img width="568" height="314" alt="image" src="https://github.com/user-attachments/assets/7c9ec054-0cb6-430a-bcdd-430be3552a1f" /><br>
+<img width="1450" height="539" alt="image" src="https://github.com/user-attachments/assets/92c8be90-2256-46ec-ad79-0f43f8cf6525" /><br>
 
-2. Data for both 2016 & 2017: <br>
-
+After that uploading data for 2017:<br>
+<img width="1629" height="817" alt="image" src="https://github.com/user-attachments/assets/834df262-a097-4136-957b-d7a97b57802e" /><br>
+Data for both 2016 & 2017:<br>
+<img width="854" height="512" alt="image" src="https://github.com/user-attachments/assets/30ce2e46-f594-42c9-9ad7-4b9965b9bfcb" /><br>
 
 
