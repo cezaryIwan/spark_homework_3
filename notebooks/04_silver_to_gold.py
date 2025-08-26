@@ -104,7 +104,7 @@ def calculate_and_upsert_metrics(micro_batch_df, batch_id):
 query = (decrypted_df.writeStream
     .foreachBatch(calculate_and_upsert_metrics)
     .option("checkpointLocation", checkpoint_path)
-    .trigger(availableNow=True)
+    .trigger(processingTime='10 seconds')
     .start()
 )
 
