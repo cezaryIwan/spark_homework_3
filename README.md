@@ -1,4 +1,4 @@
-<img width="1371" height="735" alt="image" src="https://github.com/user-attachments/assets/e08af463-a24f-428d-84e4-9569d8f50453" />Beside main ones I am using few additional notebooks:<br>
+Beside main ones I am using few additional notebooks:<br>
 <br>
 - configuration -> variables used in several notebooks<br>
 - encryption_helper -> helper for encrypting and decrypting PII fields<br>
@@ -80,10 +80,12 @@ Data for both 2016 & 2017:<br>
 <img width="854" height="512" alt="image" src="https://github.com/user-attachments/assets/30ce2e46-f594-42c9-9ad7-4b9965b9bfcb" /><br>
 
 # Visualizations:
+Datasets for this dashboards have been created in notebook 05_build_dashboard_datasets.There are only a few of records for each, but I'm asumming that's just the data:<br>
 <img width="1341" height="723" alt="image" src="https://github.com/user-attachments/assets/7ce0f3f1-5d0c-4a5f-9f06-90ae1f8a850e" /><br>
 <img width="1348" height="712" alt="image" src="https://github.com/user-attachments/assets/f7d3ad10-a60c-41c4-b970-93f7386c44fc" /><br>
 <img width="1371" height="735" alt="image" src="https://github.com/user-attachments/assets/f3067636-3b5f-456a-92d6-f64aaa0cc283" /><br>
 <img width="1328" height="731" alt="image" src="https://github.com/user-attachments/assets/c73852ea-7de3-452e-bbaf-a4040cf6a1e9" /><br>
 <img width="1369" height="713" alt="image" src="https://github.com/user-attachments/assets/0caf688b-9bbd-40db-8633-8702fd459758" /><br>
+
 
 
